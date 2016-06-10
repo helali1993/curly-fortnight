@@ -1,2 +1,2 @@
 # curly-fortnight
-For my training in the book of ACM
+It contains the codes for the starred (and hopefully soon, non-starred) problems in competitve programing 3.
