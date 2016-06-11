@@ -1,4 +1,5 @@
 //correct solution 
+//read specification to submit a java code before doing so  
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
