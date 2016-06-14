@@ -3,7 +3,7 @@
 * for reading input as I am unaware of the technique, for the original file
 * please follow the link:
 * https://github.com/ackoroa/UVa-Solutions/blob/master/UVa%20514%20-%20Rails/src/UVa%20514%20-%20Rails.cpp
-*\
+*/
 
 #include <iostream>
 #include <stack>
