@@ -1,5 +1,5 @@
 /* This solution belongs to ackoroa
-* I have copied the file as is her for refrence for C++ string Manipulation
+* I have copied the file as is here for refrence for C++ string Manipulation
 * for reading input as I am unaware of the technique, for the original file
 * please follow the link:
 * https://github.com/ackoroa/UVa-Solutions/blob/master/UVa%20514%20-%20Rails/src/UVa%20514%20-%20Rails.cpp
