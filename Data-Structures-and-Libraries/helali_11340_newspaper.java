@@ -2,7 +2,7 @@
 * we get a wrong answer verdict
 * use double instead
 * I have solved the problem with hashmap although it stated that
-* the problem is an 1D arry Maniupulation, don't know it that is an 
+* the problem is an 1D arry Maniupulation, don't know if that's an 
 * over kill or not
 */
 
